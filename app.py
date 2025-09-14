@@ -13,10 +13,8 @@ while True:
         print("PrevinaBot: Obrigado por conversar! Procure sempre orientação médica quando necessário.")
         break
     
-    # Primeiro tenta responder pelo FAQ local
     resposta = responder(pergunta, faq)
     
-    # Se não encontrou no FAQ, pesquisa na web
     if resposta.startswith("Desculpe"):
         print("PrevinaBot: Não encontrei no banco local, pesquisando na web...\n")
         resposta = pesquisar_duckduckgo(pergunta)
