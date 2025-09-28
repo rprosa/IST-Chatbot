@@ -1,23 +1,30 @@
 {
-  "clamidia sintomas": "A clamídia pode ser assintomática, mas pode causar dor ao urinar e secreção.",
-  "clamidia transmissão": "A clamídia é transmitida principalmente por relações sexuais sem preservativo.",
+  "quem sou eu?": "Eu sou o PrevinaBot. Uma inteligencia treinada para lhe orietar em duvidas referentes a ISTs", 
+  
+  "clamidia sintomas": "A clamídia pode ser assintomática, mas pode causar dor ao urinar e secreção. Nas mulheres pode levar à doença inflamatória pélvica.",
+  "clamidia transmissao": "A clamídia é transmitida por relações sexuais sem preservativo e pode passar de mãe para filho durante o parto.",
   "clamidia tratamento": "A clamídia é tratada com antibióticos prescritos por um médico.",
-  
-  "gonorreia sintomas": "A gonorreia pode causar secreção esverdeada e dor ao urinar.",
-  "gonorreia transmissão": "A gonorreia é transmitida por relações sexuais desprotegidas e pode passar da mãe para o bebê no parto.",
-  "gonorreia tratamento": "A gonorreia deve ser tratada com antibióticos específicos sob prescrição médica.",
-  
-  "sifilis sintomas": "A sífilis apresenta fases: feridas indolores, manchas na pele e complicações internas.",
-  "sifilis transmissão": "A sífilis é transmitida por contato sexual sem preservativo ou de mãe para filho durante a gravidez.",
-  "sifilis tratamento": "A sífilis é tratada com penicilina, aplicada por via intramuscular sob orientação médica.",
-  
+  "clamidia medico": "O tratamento da clamídia pode ser feito com ginecologista, urologista ou infectologista.",
+
+  "gonorreia sintomas": "A gonorreia pode causar secreção esverdeada, dor ao urinar e dor pélvica.",
+  "gonorreia transmissao": "A gonorreia é transmitida por relações sexuais desprotegidas e também pode passar de mãe para filho no parto.",
+  "gonorreia tratamento": "O tratamento da gonorreia é feito com antibióticos sob prescrição médica.",
+  "gonorreia medico": "O tratamento da gonorreia pode ser feito com urologista (homens), ginecologista (mulheres) ou infectologista.",
+
+  "sifilis sintomas": "A sífilis tem várias fases. No início aparecem feridas indolores. Depois podem surgir manchas na pele e sintomas graves em órgãos internos.",
+  "sifilis transmissao": "A sífilis é transmitida por contato sexual sem preservativo ou de mãe para filho durante a gestação.",
+  "sifilis tratamento": "A sífilis é tratada com penicilina aplicada por via intramuscular sob orientação médica.",
+  "sifilis medico": "O tratamento da sífilis pode ser feito por ginecologista, urologista, infectologista ou clínico geral.",
+
   "hpv sintomas": "O HPV pode causar verrugas genitais e, em alguns casos, lesões que podem evoluir para câncer.",
-  "hpv transmissão": "O HPV é transmitido por contato sexual, mesmo sem penetração.",
-  "hpv tratamento": "Não existe cura definitiva para o HPV, mas existem tratamentos para verrugas e lesões.",
-  
-  "hiv sintomas": "O HIV pode ser assintomático por anos, mas pode causar febre, perda de peso e infecções frequentes.",
-  "hiv transmissão": "O HIV é transmitido por relações sexuais sem preservativo, sangue contaminado e de mãe para filho.",
+  "hpv transmissao": "O HPV é transmitido por contato sexual íntimo, mesmo sem penetração.",
+  "hpv tratamento": "Não há cura definitiva para o HPV, mas é possível tratar verrugas e lesões com medicamentos ou procedimentos médicos.",
+  "hpv medico": "O tratamento do HPV pode ser feito por ginecologista, urologista ou dermatologista.",
+
+  "hiv sintomas": "O HIV pode ser assintomático por anos. Quando aparecem, os sintomas iniciais incluem febre, fadiga e perda de peso.",
+  "hiv transmissao": "O HIV é transmitido por relações sexuais sem preservativo, sangue contaminado e de mãe para filho.",
   "hiv tratamento": "O HIV não tem cura, mas o tratamento com antirretrovirais permite viver com qualidade e reduzir a transmissão.",
-  
-  "prevenção geral": "O uso de preservativos reduz em até 98% o risco de ISTs. Testagem regular e acompanhamento médico também são fundamentais."
+  "hiv medico": "O tratamento do HIV deve ser feito com infectologista.",
+
+  "prevencao geral": "O uso de preservativos reduz em até 98% o risco de ISTs. A testagem regular também é fundamental."
 }
