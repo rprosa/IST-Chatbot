@@ -1,6 +1,10 @@
 {
   "quem sou eu?": "Eu sou o PrevinaBot. Uma inteligencia treinada para lhe orietar em duvidas referentes a ISTs", 
-  
+}
+{
+  "ist prevencao": "As principais formas de prevenção de ISTs são: uso de preservativos em todas as relações, testagem regular, não compartilhar seringas e manter acompanhamento médico."
+}
+  {
   "clamidia sintomas": "A clamídia pode ser assintomática, mas pode causar dor ao urinar e secreção. Nas mulheres pode levar à doença inflamatória pélvica.",
   "clamidia transmissao": "A clamídia é transmitida por relações sexuais sem preservativo e pode passar de mãe para filho durante o parto.",
   "clamidia tratamento": "A clamídia é tratada com antibióticos prescritos por um médico.",
@@ -25,6 +29,5 @@
   "hiv transmissao": "O HIV é transmitido por relações sexuais sem preservativo, sangue contaminado e de mãe para filho.",
   "hiv tratamento": "O HIV não tem cura, mas o tratamento com antirretrovirais permite viver com qualidade e reduzir a transmissão.",
   "hiv medico": "O tratamento do HIV deve ser feito com infectologista.",
-
   "prevencao geral": "O uso de preservativos reduz em até 98% o risco de ISTs. A testagem regular também é fundamental."
 }
