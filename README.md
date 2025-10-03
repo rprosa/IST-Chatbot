@@ -1,4 +1,4 @@
-# DST-Chatbot
+# IST-Chatbot
 
 casos futuros...
 
