@@ -17,7 +17,6 @@ with col2:
 with col3:
     st.markdown("<div class='card'>🖼️ Análise de Imagens</div>", unsafe_allow_html=True)
 
-
 st.set_page_config(page_title="PrevinaBot", page_icon="🧑‍⚕️", layout="centered")
 
 st.title(" PrevinaBot - Chatbot sobre ISTs ")
